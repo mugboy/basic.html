@@ -29,7 +29,7 @@ Now add a `title` in the `head` to make your website title. I'll name it "The ni
 ```
 Next go to your desktop and make a new folder.
 
-![Creation of the folder](./folder_creation_on_desktop.gif)
+![Creation of the folder](./images/folder_creation_on_desktop.gif)
 
 Now go back to Visual studio code in your file.
 
