@@ -72,6 +72,7 @@ The levels from 1 to 6 as you see above, are how small it is. For example, `h1` 
 I will use `h1` for this and I will name it "Greeting".
 
 ```html
+<html>
     <head>
         <title> The nicest HTML </title>
     </head>
