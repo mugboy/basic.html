@@ -1,3 +1,3 @@
 # LINK #
 
-[Start reading](./basics.md)
+[The lessons](./basics.md)
