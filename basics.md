@@ -84,4 +84,6 @@ I will use `h1` for this and I will name it "Greeting".
 
 Remember to always save your file with <kbd>Ctrl</kbd>+<kbd>S</kbd>.
 
+If it asks to save it somewhere, save it in your newly made folder.
+
 See part 2 for more!
