@@ -1,4 +1,4 @@
-# Basic HTML for kids for Visual Studio Code #
+# Basic HTML for kids & Visual Studio Code #
 
 Welcome to the HTML world!
 
